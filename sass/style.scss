@@ -1,7 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto&display=swap&subset=greek-ext');
+
+$default-font: 'Roboto', sans-serif;
+$special-font: 'Lato', sans-serif;
+$main-color: #2c2141;
+
 html {
     box-sizing: border-box;
 }
   
 *, *:before, *:after {
     box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    background-color: #ddd;
+    font-family: $default-font;
+    color: #fff;
 }
