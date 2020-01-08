@@ -1,0 +1,28 @@
+{
+  "name": "home_work_flex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naval63/home_work_flex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naval63/home_work_flex/issues"
+  },
+  "homepage": "https://github.com/Naval63/home_work_flex#readme",
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "node": "^13.5.0",
+    "sass": "^1.24.3"
+  }
+}
