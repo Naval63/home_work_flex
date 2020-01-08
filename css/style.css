@@ -1,5 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto&display=swap&subset=greek-ext");
 html {
   box-sizing: border-box; }
 
 *, *:before, *:after {
   box-sizing: inherit; }
+
+body {
+  margin: 0;
+  background-color: #ddd;
+  font-family: "Roboto", sans-serif;
+  color: #fff; }
+
+.article {
+  height: 75vh;
+  color: white;
+  background-color: #2c2141;
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .article h1 {
+    font-size: 48px;
+    font-family: "Lato", sans-serif; }
+
+.container {
+  display: flex; }
